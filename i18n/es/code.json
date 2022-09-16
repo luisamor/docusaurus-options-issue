@@ -1,0 +1,7 @@
+{
+  "hero__subtitle": {
+    "message": "Ejemplo de subtítlo",
+    "description": "home page subtitle"
+  },
+  "test.left": { "message": "Izquierda" }
+}
