@@ -21,14 +21,17 @@ function HomepageHeader() {
           </Translate>
         </p>
 
-        <select>
-          <option value="left">
-            <Translate id="test.left">Left</Translate>
-          </option>
-          <option value="right">
-            <Translate id="test.left">Right</Translate>
-          </option>
-        </select>
+        <div className="margin-bottom--lg">
+          <select>
+            <option value="left">
+              <Translate id="test.left">Left</Translate>
+            </option>
+            <option value="right">
+              <Translate id="test.left">Right</Translate>
+            </option>
+          </select>
+        </div>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
