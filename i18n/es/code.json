@@ -3,5 +3,6 @@
     "message": "Ejemplo de subtítlo",
     "description": "home page subtitle"
   },
-  "test.left": { "message": "Izquierda" }
+  "test.left": { "message": "Izquierda" },
+  "test.right": { "message": "Derecha" }
 }

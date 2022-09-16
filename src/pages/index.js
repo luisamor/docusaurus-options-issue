@@ -22,8 +22,12 @@ function HomepageHeader() {
         </p>
 
         <select>
-          <option value="left">Left</option>
-          <option value="right">Right</option>
+          <option value="left">
+            <Translate id="test.left">Left</Translate>
+          </option>
+          <option value="right">
+            <Translate id="test.left">Right</Translate>
+          </option>
         </select>
         <div className={styles.buttons}>
           <Link
